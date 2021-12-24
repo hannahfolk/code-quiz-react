@@ -6,9 +6,9 @@ const Header = (props) => {
   return (
     <Navbar>
       <Nav.Link href="/highscores">View Highscores</Nav.Link>
-      <Navbar.Text class="time-span">
+      <p className="time-span">
         Time Left:<span> {secondsLeft}</span>
-      </Navbar.Text>
+      </p>
     </Navbar>
   );
 };
