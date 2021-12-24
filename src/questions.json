@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How many elements are there in the world of Avatar: The Last Airbender?",
+    "answers": [1, 2, 3, 4],
+    "correct": "4"
+  },
+  {
+    "question": "Who is not part of the Gaang?",
+    "answers": ["Azula", "Toph", "Zuko", "Sokka"],
+    "correct": "Azula"
+  },
+  {
+    "question": "How many years was Aang trapped in the iceberg?",
+    "answers": [1, 20, 100, 12],
+    "correct": "100"
+  },
+  {
+    "question": "Who does Zuko end up with at the end of the show?",
+    "answers": ["Katara", "Toph", "Sokka", "Mai"],
+    "correct": "Mai"
+  },
+  {
+    "question": "In what season do we meet Azula?",
+    "answers": [1, 2, 3, 4],
+    "correct": "1"
+  }
+]
