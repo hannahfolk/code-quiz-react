@@ -10,8 +10,8 @@ const End = (props) => {
     <Container className="end-container">
       <h1>All done!</h1>
       <p>Your final score is {secondsLeft}.</p>
-      <Form onSubmit={handleInitialsSubmit}>
-        <Form.Group className="mb-3">
+      <Form className="initials-form-container" onSubmit={handleInitialsSubmit}>
+        <Form.Group className="mb-3 initials-form">
           <Form.Label>Enter Initials:</Form.Label>
           <Form.Control
             type="text"

@@ -5,7 +5,8 @@
 
 h1,
 .intro-container h5,
-.right-wrong {
+.right-wrong,
+.end-container p {
   text-align: center;
 }
 
@@ -14,6 +15,11 @@ h1,
   flex-direction: column;
   align-items: center;
   flex-wrap: wrap;
+  margin-top: 100px;
+}
+
+.questions-container,
+.end-container {
   margin-top: 100px;
 }
 
@@ -26,4 +32,30 @@ h1,
 .button-container button {
   margin: 10px 0;
   width: 20%;
+}
+
+.initials-form-container {
+  display: flex;
+  justify-content: center;
+}
+
+.initials-form {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+}
+
+.initials-form input {
+  width: 20%;
+}
+
+.highscores-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.highscores-container li {
+  font-size: 20px;
 }
