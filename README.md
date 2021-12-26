@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# Code Quiz React
+![GitHub repo size](https://img.shields.io/github/repo-size/hannahfolk/code-quiz-react)
+![GitHub contributors](https://img.shields.io/github/contributors/hannahfolk/code-quiz-react)
+![GitHub stars](https://img.shields.io/github/stars/hannahfolk/code-quiz-react?style=social)
+![GitHub forks](https://img.shields.io/github/forks/hannahfolk/code-quiz-react?style=social)
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+    
+Short and simple quiz about Avatar: The Last Airbender, written using React and React Bootstrap.
+    
+<a href="https://github.com/hannahfolk/code-quiz-react"><strong>Explore the docs »</strong></a>
+    
+<a href="https://hannahfolk/github.io/code-quiz-react">View Demo</a>
+·
+<a href="https://github.com/hannahfolk/code-quiz-react/issues">Report Bug</a>
+·
+<a href="https://github.com/hannahfolk/code-quiz-react/issues">Request Feature</a>
+    
+## Table of Contents
+    
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Contact](#contact)
+* [License](#license)
+* [Acknowledgements](#acknowledgements)
+    
+## About The Project
+    
+[![Product Name Screen Shot][product-screenshot]]()
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Built With
+      
+* [React](https://reactjs.org/)
+* [React Bootstrap](https://react-bootstrap.github.io/)    
+    
+## Getting Started
+    
+To get a local copy up and running follow these simple steps.
+    
+### Prerequisites
+    
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+```sh
+npm install npm@latest -g
+```
+    
+### Installation
+    
+1. Clone the repo
+```sh
+git clone https://github.com/hannahfolk/code-quiz-react.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
+    
+    
+## Using Code Quiz React
+    
+Click through the quiz to answer questions. If you are wrong, ten seconds will be deducted from your score. Scores are stored and can be viewed on the highscores page.
+    
+    
+## Contact
+    
+If you want to contact me you can reach me at [hfolk25@gmail.com](hfolk25@gmail.com).
+    
+    
+## License
+        
+This project uses the [MIT][license-url] license.
+    
 
-In the project directory, you can run:
+## Acknowledgements
+      
+* [Trilogy Education](https://www.trilogyed.com/)
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[repo-size-shield]: https://img.shields.io/github/repo-size/hannahfolk/code-quiz-react
+[contributors-shield]: https://img.shields.io/github/contributors/hannahfolk/code-quiz-react
+[contributors-url]: https://github.com/hannahfolk/code-quiz-react/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hannahfolk/code-quiz-react
+[forks-url]: https://github.com/hannahfolk/code-quiz-react/network/members
+[stars-shield]: https://img.shields.io/github/stars/hannahfolk/code-quiz-react?style=social
+[stars-url]: https://github.com/hannahfolk/code-quiz-react/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hannahfolk/code-quiz-react
+[issues-url]: https://github.com/hannahfolk/code-quiz-react/issues
+[license-shield]: https://img.shields.io/badge/license-MIT-green
+[license-url]: https://github.com/hannahfolk/code-quiz-react/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/hannahfolk
+[product-screenshot]: images/screenshot.jpg
