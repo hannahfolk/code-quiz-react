@@ -29,7 +29,7 @@ Short and simple quiz about Avatar: The Last Airbender, written using React and 
     
 ## About The Project
     
-[![Product Name Screen Shot][product-screenshot]]()
+[![Product Name Screen Shot][product-screenshot]](https://code-quiz-react.netlify.app/)
 
 
 ### Built With
